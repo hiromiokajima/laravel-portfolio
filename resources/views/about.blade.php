@@ -3,12 +3,12 @@
 @section('title', 'about')
 
 @section('content')
-
+    @include('components.navbar')
     <div class="container">
-        @include('components.navbar')
+
         <div class="row">
             <div class="col-4">
-
+                <img src="{{ asset('/images/hiromi.png') }}" alt="hiromi" class="img-fluid mt-5 pt-5 rounded-circle">
             </div>
             <div class="col-8">
                 <h1 class="d-flex justify-content-center biz-udpgothic-regular mt-3">About Me</h1>
