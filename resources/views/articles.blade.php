@@ -32,7 +32,7 @@
                     <br>
                     <br>
                     <br>
-                    <span class="fw-bold">We have an upcoming deployment on AWS soon!</span>
+                    <a href="https://omotenaship.com/">omotenaship.com(The application is already deployed on AWS)</a>
                 </p>
                 <img src="{{ asset('/images/omotenaship.png') }}" alt="omotenaship" class="col-5">
             </div>
@@ -41,20 +41,24 @@
             <div class="col d-flex justify-content-center biz-udpgothic-regular mt-5">
                 <img src="{{ asset('/images/laravel-insta.png') }}" alt="laravel-insta" class="col-5 ms-5">
                 <a href="https://insta-app-hiromi-b9678a6db7a1.herokuapp.com/"
-                    class="col-7 d-flex align-items-center justify-content-center "> Laravel-insta   (The application is already deployed on Heroku)<a>
+                    class="col-7 d-flex align-items-center justify-content-center "> Laravel-insta (The application is
+                    already deployed on Heroku)<a>
             </div>
         </div>
         <div class="row">
             <div class="col d-flex justify-content-start biz-udpgothic-regular mt-5">
                 <p class="border border-info">Please feel free to use this sample
                     account.↓↓↓
-                <br>
-                laravel-insta
-                <br>
-                email:user01@sample.com 
-                <br>
-                password:11111111
-            </p>
+                    <br>
+                    omotenaship & laravel-insta
+                    <br>
+                    username:user01(omotenaship)
+                    <br>
+                    email:user01@sample.com
+                    <br>
+                    password:11111111
+
+                </p>
             </div>
         </div>
     </div>
